@@ -8,3 +8,4 @@ Benchmarking the different models on Caltech256. (Rounded to nearest integer)
 | PCA + brute force | 100 | 6.61  | 574  |  151   |
 | PCA + k-d tree | 100 |  6.84  | 5870    |  523  |
 | PCA + ball tree | 100 | 5.73  |  4810  |   416  |
+| PCA + Elasticsearch | 100 | 7  |  _  |   _  |
